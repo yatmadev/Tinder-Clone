@@ -23,3 +23,16 @@
 		width="210"
 		alt="Profile"
 		src="https://user-images.githubusercontent.com/57555870/80678267-3bdb0580-8ad8-11ea-9c67-2ee0314cecc6.png">
+		
+## Installation and usage
+
+Be sure, you have installed all dependencies and applications to run React Native project on your computer : [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
+
+This project works fine for iOS but in Android version there are serious UI problems because I've only worked on iOS.
+
+
+### Running the project
+
+Clone this repository :
+
+```
