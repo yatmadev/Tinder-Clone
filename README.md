@@ -26,7 +26,7 @@
 		
 ## Installation and usage
 
-Be sure, you have installed all dependencies and applications to run React Native project on your computer : [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
+Be sure, you have installed all dependencies and applications to run React Native project on your machine : [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
 
 
 ### Running the project
