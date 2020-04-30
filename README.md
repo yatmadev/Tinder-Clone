@@ -34,3 +34,20 @@ Be sure, you have installed all dependencies and applications to run React Nativ
 Clone this repository :
 
 ```
+git clone https://github.com/yatmadev/Tinder-Clone-using-React-Native.git
+cd Tinder-Clone-using-React-Native
+```
+
+Install packages :
+
+```
+npm install
+```
+
+When installation is complete, run with version of your choice :
+
+```bash
+react-native run-ios
+# or
+react-native run-android
+```
