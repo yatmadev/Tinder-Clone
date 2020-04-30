@@ -7,7 +7,6 @@
 
 ## Screenshots
 
-<center>
 <img
 		width="210"
 		alt="Explore"
@@ -24,7 +23,7 @@
 		width="210"
 		alt="Profile"
 		src="https://user-images.githubusercontent.com/57555870/80678267-3bdb0580-8ad8-11ea-9c67-2ee0314cecc6.png">
-</center>
+
 		
 ## Installation and usage
 
