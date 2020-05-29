@@ -32,7 +32,7 @@ const CardItem = ({
       paddingBottom: variant ? 5 : 7,
       color: '#363636',
       fontSize: variant ? 15 : 30,
-      fontWeight: 'bold'
+      fontFamily: 'ChelaOneRegular'
     }
   ];
 
