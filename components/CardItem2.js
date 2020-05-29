@@ -28,7 +28,7 @@ const CardItem = ({
       color: 'red',
       justifyContent: 'center',
       alignItems:'center',
-      fontWeight: 'bold'
+      fontFamily:'CaviarDreamsBold'
     }
   ];
 
