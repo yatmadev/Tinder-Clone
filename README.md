@@ -22,7 +22,7 @@
 <img
 		width="220"
 		alt="Profile"
-		src="https://user-images.githubusercontent.com/57555870/83269136-47f3d900-a1e4-11ea-8d59-3beb8a5a4218.png">
+		src="https://user-images.githubusercontent.com/57555870/83269409-b173e780-a1e4-11ea-9f85-9f9e4f2c9ed8.png">
 
 		
 ## Installation and usage
