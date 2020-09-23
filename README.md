@@ -8,19 +8,19 @@
 ## Screenshots
 
 <img
-		width="200"
+		width="210"
 		alt="Explore"
 		src="https://user-images.githubusercontent.com/57555870/83269122-41fdf800-a1e4-11ea-9943-124cd0c4c916.png">
 <img
-		width="200"
+		width="210"
 		alt="Matches"
 		src="https://user-images.githubusercontent.com/57555870/83269130-44605200-a1e4-11ea-8421-53e2b87ca74d.png">
 <img
-		width="200"
+		width="210"
 		alt="Messages"
 		src="https://user-images.githubusercontent.com/57555870/83269136-47f3d900-a1e4-11ea-8d59-3beb8a5a4218.png">
 <img
-		width="200"
+		width="210"
 		alt="Profile"
 		src="https://user-images.githubusercontent.com/57555870/83269409-b173e780-a1e4-11ea-9f85-9f9e4f2c9ed8.png">
 
